@@ -1,4 +1,4 @@
-Thanks for helping make GitHub safe for everyone.
+Thanks Alice Fosseneuve for helping make GitHub safe for everyone.
 
 # Security
 
